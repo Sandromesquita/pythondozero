@@ -1,0 +1,20 @@
+Revisar Função
+
+Uma função é um bloco do código em que executa uma determinada ação que seria repetitiva
+
+Função caminhar
+1. Levanto a perna esquerda
+2. Avanço a perna esquerda
+3. Abaixo a perna esquerda
+
+4. Levanto a perna direita
+5. Avanço a perna direita
+6. Abaixo a perna direita
+
+Função caminhar 2 ( lado )
+1. Levanto a perna $lado
+2. Avanço a perna $lado
+3. Abaixo a perna $lado
+
+Função caminhar 2 (esquerda)
+Função caminhar 2 (direita)
